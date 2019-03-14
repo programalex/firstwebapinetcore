@@ -1,0 +1,14 @@
+/home/programalex/webservice/bin/Debug/netcoreapp2.2/webservice.deps.json
+/home/programalex/webservice/bin/Debug/netcoreapp2.2/webservice.runtimeconfig.json
+/home/programalex/webservice/bin/Debug/netcoreapp2.2/webservice.runtimeconfig.dev.json
+/home/programalex/webservice/bin/Debug/netcoreapp2.2/webservice.dll
+/home/programalex/webservice/bin/Debug/netcoreapp2.2/webservice.pdb
+/home/programalex/webservice/obj/Debug/netcoreapp2.2/webservice.csprojAssemblyReference.cache
+/home/programalex/webservice/obj/Debug/netcoreapp2.2/webservice.csproj.CoreCompileInputs.cache
+/home/programalex/webservice/obj/Debug/netcoreapp2.2/webservice.RazorAssemblyInfo.cache
+/home/programalex/webservice/obj/Debug/netcoreapp2.2/webservice.RazorAssemblyInfo.cs
+/home/programalex/webservice/obj/Debug/netcoreapp2.2/webservice.AssemblyInfoInputs.cache
+/home/programalex/webservice/obj/Debug/netcoreapp2.2/webservice.AssemblyInfo.cs
+/home/programalex/webservice/obj/Debug/netcoreapp2.2/webservice.RazorTargetAssemblyInfo.cache
+/home/programalex/webservice/obj/Debug/netcoreapp2.2/webservice.dll
+/home/programalex/webservice/obj/Debug/netcoreapp2.2/webservice.pdb
